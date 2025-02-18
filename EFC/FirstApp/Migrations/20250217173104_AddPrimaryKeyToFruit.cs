@@ -4,10 +4,8 @@
 
 namespace FirstApp.Migrations
 {
-    /// <inheritdoc />
     public partial class AddPrimaryKeyToFruit : Migration
     {
-        /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
@@ -24,8 +22,6 @@ namespace FirstApp.Migrations
                     table.PrimaryKey("PK_Fruits", x => x.Id);
                 });
         }
-
-        /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
