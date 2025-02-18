@@ -1,0 +1,51 @@
+﻿@using RecipeApplication.Models;
+@model EditRecipeBase
+
+<div class="form-group">
+    <label class="col-md-2 control-label" asp-for="Name"></label>
+    <div class="col-md-10">
+        <input class="form-control" asp-for="Name" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+</div>
+<div class="form-group">
+    <label class="col-md-2 control-label" asp-for="Method"></label>
+    <div class="col-md-10">
+        <textarea class="form-control" asp-for="Method" ></textarea>
+        <span asp-validation-for="Method" class="text-danger"></span>
+    </div>
+</div>
+<div class="form-group">
+    <label class="col-md-2 control-label" asp-for="TimeToCookHrs"></label>
+    <div class="col-md-10">
+        <input class="form-control" asp-for="TimeToCookHrs" />
+        <span asp-validation-for="TimeToCookHrs" class="text-danger"></span>
+    </div>
+</div>
+<div class="form-group">
+    <label class="col-md-2 control-label" asp-for="TimeToCookMins"></label>
+    <div class="col-md-10">
+        <input class="form-control" asp-for="TimeToCookMins" />
+        <span asp-validation-for="TimeToCookMins" class="text-danger"></span>
+    </div>
+</div>
+<div class="form-group">
+    <div class="col-sm-offset-12 col-sm-10">
+        <div class="checkbox">
+            <label class="control-label">
+                <input asp-for="IsVegeterian" /> Vegeterian?
+                <span asp-validation-for="IsVegeterian" class="text-danger"></span>
+            </label>
+        </div>
+    </div>
+</div>
+<div class="form-group">
+    <div class="col-sm-offset-12 col-sm-10">
+        <div class="checkbox">
+            <label class="control-label">
+                <input asp-for="IsVegan" /> Vegan?
+                <span asp-validation-for="IsVegan" class="text-danger"></span>
+            </label>
+        </div>
+    </div>
+</div>
