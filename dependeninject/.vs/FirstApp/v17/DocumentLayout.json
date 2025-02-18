@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Xeon_Fox\\Documents\\GitHub\\aspnet\\dependeninject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{549D6171-8312-4FE6-B018-F85FB2ED26B8}|FirstApp\\FirstApp.csproj|c:\\users\\xeon_fox\\documents\\github\\aspnet\\dependeninject\\firstapp\\model\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549D6171-8312-4FE6-B018-F85FB2ED26B8}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\model\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549D6171-8312-4FE6-B018-F85FB2ED26B8}|FirstApp\\FirstApp.csproj|c:\\users\\xeon_fox\\documents\\github\\aspnet\\dependeninject\\firstapp\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549D6171-8312-4FE6-B018-F85FB2ED26B8}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549D6171-8312-4FE6-B018-F85FB2ED26B8}|FirstApp\\FirstApp.csproj|c:\\users\\xeon_fox\\documents\\github\\aspnet\\dependeninject\\firstapp\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549D6171-8312-4FE6-B018-F85FB2ED26B8}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549D6171-8312-4FE6-B018-F85FB2ED26B8}|FirstApp\\FirstApp.csproj|c:\\users\\xeon_fox\\documents\\github\\aspnet\\dependeninject\\firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549D6171-8312-4FE6-B018-F85FB2ED26B8}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549D6171-8312-4FE6-B018-F85FB2ED26B8}|FirstApp\\FirstApp.csproj|c:\\users\\xeon_fox\\documents\\github\\aspnet\\dependeninject\\firstapp\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549D6171-8312-4FE6-B018-F85FB2ED26B8}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549D6171-8312-4FE6-B018-F85FB2ED26B8}|FirstApp\\FirstApp.csproj|c:\\users\\xeon_fox\\documents\\github\\aspnet\\dependeninject\\firstapp\\commandfruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549D6171-8312-4FE6-B018-F85FB2ED26B8}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\commandfruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "C:\\Users\\Xeon_Fox\\Documents\\GitHub\\aspnet\\dependeninject\\FirstApp\\Model\\Fruit.cs",
+              "RelativeDocumentMoniker": "FirstApp\\Model\\Fruit.cs",
+              "ToolTip": "C:\\Users\\Xeon_Fox\\Documents\\GitHub\\aspnet\\dependeninject\\FirstApp\\Model\\Fruit.cs",
+              "RelativeToolTip": "FirstApp\\Model\\Fruit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:22:11.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Xeon_Fox\\Documents\\GitHub\\aspnet\\dependeninject\\FirstApp\\Program.cs",
+              "RelativeDocumentMoniker": "FirstApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Xeon_Fox\\Documents\\GitHub\\aspnet\\dependeninject\\FirstApp\\Program.cs",
+              "RelativeToolTip": "FirstApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:20:33.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\Xeon_Fox\\Documents\\GitHub\\aspnet\\dependeninject\\FirstApp\\ICommand.cs",
+              "RelativeDocumentMoniker": "FirstApp\\ICommand.cs",
+              "ToolTip": "C:\\Users\\Xeon_Fox\\Documents\\GitHub\\aspnet\\dependeninject\\FirstApp\\ICommand.cs",
+              "RelativeToolTip": "FirstApp\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:20:32.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\Xeon_Fox\\Documents\\GitHub\\aspnet\\dependeninject\\FirstApp\\Data.cs",
+              "RelativeDocumentMoniker": "FirstApp\\Data.cs",
+              "ToolTip": "C:\\Users\\Xeon_Fox\\Documents\\GitHub\\aspnet\\dependeninject\\FirstApp\\Data.cs",
+              "RelativeToolTip": "FirstApp\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:20:31.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\Xeon_Fox\\Documents\\GitHub\\aspnet\\dependeninject\\FirstApp\\Command.cs",
+              "RelativeDocumentMoniker": "FirstApp\\Command.cs",
+              "ToolTip": "C:\\Users\\Xeon_Fox\\Documents\\GitHub\\aspnet\\dependeninject\\FirstApp\\Command.cs",
+              "RelativeToolTip": "FirstApp\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:20:30.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommandFruit.cs",
+              "DocumentMoniker": "C:\\Users\\Xeon_Fox\\Documents\\GitHub\\aspnet\\dependeninject\\FirstApp\\CommandFruit.cs",
+              "RelativeDocumentMoniker": "FirstApp\\CommandFruit.cs",
+              "ToolTip": "C:\\Users\\Xeon_Fox\\Documents\\GitHub\\aspnet\\dependeninject\\FirstApp\\CommandFruit.cs",
+              "RelativeToolTip": "FirstApp\\CommandFruit.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:20:27.159Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

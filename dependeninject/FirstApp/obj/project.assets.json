@@ -3324,24 +3324,27 @@
     ]
   },
   "packageFolders": {
-    "/Users/ayanurazaliev/.nuget/packages/": {}
+    "C:\\Users\\Xeon_Fox\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ayanurazaliev/Documents/GitHub/asp.net/MinimalApi/FirstApp/FirstApp.csproj",
+      "projectUniqueName": "C:\\Users\\Xeon_Fox\\Documents\\GitHub\\aspnet\\minapi\\FirstApp\\FirstApp.csproj",
       "projectName": "FirstApp",
-      "projectPath": "/Users/ayanurazaliev/Documents/GitHub/asp.net/MinimalApi/FirstApp/FirstApp.csproj",
-      "packagesPath": "/Users/ayanurazaliev/.nuget/packages/",
-      "outputPath": "/Users/ayanurazaliev/Documents/GitHub/asp.net/MinimalApi/FirstApp/obj/",
+      "projectPath": "C:\\Users\\Xeon_Fox\\Documents\\GitHub\\aspnet\\minapi\\FirstApp\\FirstApp.csproj",
+      "packagesPath": "C:\\Users\\Xeon_Fox\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Xeon_Fox\\Documents\\GitHub\\aspnet\\minapi\\FirstApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/ayanurazaliev/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Xeon_Fox\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3403,7 +3406,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
