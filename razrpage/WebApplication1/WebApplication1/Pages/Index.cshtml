@@ -1,0 +1,36 @@
+﻿@page
+@using WebApplication1.Pages
+@model WebApplication1.Pages.IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="row">
+    <div class="col-md-6">
+        <form method="post">
+            @* Removed explicit action, it defaults to the current page *@
+            <div class="form-group">
+                <label asp-for="NewUser.UserName"></label>
+                <input class="form-control" asp-for="NewUser.UserName" />
+                <span asp-validation-for="NewUser.UserName"></span>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-success">Add</button>
+            </div>
+        </form>
+    </div>
+    <div class="col-md-6">
+        @* Added a new column for the user list *@
+        <h2>Users</h2>
+        <p>Number of users: @Model.users.Count</p> @* Display user count *@
+        <ul>
+            @foreach (var user in Model.users)
+            {
+                <li>
+                    <span>@user.UserName</span>
+                    <button type="button" class="btn btn-primary btn-sm">View</button> @* View button *@
+                </li>
+            }
+        </ul>
+    </div>
+</div>
